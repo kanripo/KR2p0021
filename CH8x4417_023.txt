@@ -1,0 +1,29 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 23
+
+** 二十三
+<pb:CH8x4417_CHANT_023-1a>¶
+簡之為言猶間¶
+也，¶
+大而晏者也。¶
+匿之為言也猶匿匿也，¶
+小而軫者也。¶
+簡，¶
+義之方也。¶
+匿，¶
+仁之方也。¶
+強，¶
+義之方也。¶
+柔，¶
+仁之方也。¶
+「不強不梂，¶
+不剛不柔」，¶
+此之謂¶
+也。¶
+
