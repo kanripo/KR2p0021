@@ -1,0 +1,31 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 11
+
+** 十一
+<pb:CH8x4417_CHANT_011-1a>¶
+金聲，¶
+善也；¶
+玉音，¶
+聖也。¶
+善，¶
+人¶
+道也；¶
+德，¶
+天道也。¶
+唯有德者，¶
+然後能金聲而玉振之。¶
+不聰不明，¶
+不明不聖，¶
+不聖不¶
+智，¶
+不智不仁，¶
+不仁不安，¶
+不安不樂，¶
+不樂亡德。¶
+
