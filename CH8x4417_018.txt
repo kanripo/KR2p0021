@@ -1,0 +1,27 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 18
+
+** 十八
+<pb:CH8x4417_CHANT_018-1a>¶
+見而知之，¶
+智也。¶
+知而安之，¶
+仁也。¶
+安¶
+而行之，¶
+義也。¶
+行而敬之，¶
+禮也。¶
+仁義，¶
+禮所由生也，¶
+四行之所和也。¶
+和¶
+則同，¶
+同則善。¶
+
