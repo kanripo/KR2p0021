@@ -1,15 +1,15 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 13
 
 ** 十三
 <pb:CH8x4417_CHANT_013-1a>¶
-不直不肆，¶
+不直不▸肆◂[fn::「不」下一字，李零作「肆」（〈郭店楚簡校讀記〉，頁489）。]，¶
 不肆不果，¶
 不果不簡，¶
 不簡不行，¶
