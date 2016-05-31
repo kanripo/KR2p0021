@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 21
+
+** 二十一
+<pb:CH8x4417_CHANT_021-1a>¶
+以其外心與人交，¶
+遠也。¶
+遠而莊之，¶
+敬也。¶
+敬而不節，¶
+嚴也。¶
+嚴而畏¶
+之，¶
+尊也。¶
+尊而不驕，¶
+恭也。¶
+恭而博交，¶
+禮也。¶
+
