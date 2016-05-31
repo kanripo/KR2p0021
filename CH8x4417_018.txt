@@ -1,10 +1,10 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 18
 
 ** 十八
@@ -18,8 +18,8 @@
 義也。¶
 行而敬之，¶
 禮也。¶
-仁義，¶
-禮所由生也，¶
+▸仁義◂[fn::是句《郭店楚墓竹簡》（頁150）及李零（〈郭店楚簡校讀記〉，頁489）皆讀為「仁，義禮所由生也」。]，¶
+▸禮所由生也◂[fn::是句《郭店楚墓竹簡》（頁150）及李零（〈郭店楚簡校讀記〉，頁489）皆讀為「仁，義禮所由生也」。]，¶
 四行之所和也。¶
 和¶
 則同，¶
