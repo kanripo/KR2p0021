@@ -1,19 +1,19 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 21
 
 ** 二十一
 <pb:CH8x4417_CHANT_021-1a>¶
 以其外心與人交，¶
 遠也。¶
-遠而莊之，¶
+遠而▸莊◂[fn::裘錫圭謂「而」下一字為「莊」（《郭店楚墓竹簡》，頁152）。]之，¶
 敬也。¶
-敬而不節，¶
+敬而不▸節◂[fn::裘錫圭疑「不」下一字當為「節」，意即止也（《郭店楚墓竹簡》，頁152）。李零作「懈」（〈郭店楚簡校讀記〉，頁490）。劉信芳作「解」（《簡帛五行解詁》，頁119-120）。]，¶
 嚴也。¶
 嚴而畏¶
 之，¶
