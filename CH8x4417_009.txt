@@ -1,0 +1,18 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 9
+
+** 九
+<pb:CH8x4417_CHANT_009-1a>¶
+「瞻望弗及，¶
+泣涕如雨。」¶
+能差池其羽，¶
+後能至哀。¶
+君子慎其¶
+獨也。¶
+
