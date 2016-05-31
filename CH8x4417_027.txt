@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 27
+
+** 二十七
+<pb:CH8x4417_CHANT_027-1a>¶
+大施諸其人，¶
+天也。¶
+其¶
+人施諸人，¶
+狎也。¶
+聞道而悅者，¶
+好仁者也。¶
+
