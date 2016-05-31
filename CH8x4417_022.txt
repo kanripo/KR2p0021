@@ -1,10 +1,10 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 22
 
 ** 二十二
@@ -21,5 +21,5 @@
 有大罪而弗大¶
 誅也，¶
 不行也。¶
-不察於道也。¶
+不▸察◂[fn::裘錫圭謂「不」下一字當讀為「察」（《郭店楚墓竹簡》，頁153）。龐樸作「辯（辨）」（《竹帛〈五行〉篇校注及研究》，頁69）。]於道也。¶
 
