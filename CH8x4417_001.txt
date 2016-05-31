@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 1
+
+** 一
+<pb:CH8x4417_CHANT_001-1a>¶
+五行：¶
+仁形於內謂之德之行，¶
+不形於內謂之行。¶
+義形於內謂之德之行，¶
+不形於內謂之行。¶
+禮形於內謂之德之行，¶
+不形於內謂之行。¶
+智形於內謂之德之行，¶
+不形於內謂之行。¶
+聖形於內謂之德之行，¶
+不形於內謂之行。¶
+
