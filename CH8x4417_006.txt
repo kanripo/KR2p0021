@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 6
+
+** 六
+<pb:CH8x4417_CHANT_006-1a>¶
+智之思也長，¶
+長則得，¶
+得則不忘，¶
+不忘則明，¶
+明則見賢人，¶
+見賢人則玉色，¶
+玉色則形，¶
+形¶
+則智。¶
+
