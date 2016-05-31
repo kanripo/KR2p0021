@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 10
+
+** 十
+<pb:CH8x4417_CHANT_010-1a>¶
+君子之為善也，¶
+有與始，¶
+有與終也。¶
+君子之為德也，¶
+有與始，¶
+無與終也。¶
+金聲，¶
+而玉振之，¶
+有德者也。¶
+
