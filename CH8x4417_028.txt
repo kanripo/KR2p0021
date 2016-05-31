@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 五行
+#+DATE: 2016-05-31 17:12:49
+#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CAT 8,竹簡帛書II
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 28
+
+** 二十八
+<pb:CH8x4417_CHANT_028-1a>¶
+聞道而畏者，¶
+好¶
+義者也。¶
+聞道而恭者，¶
+好禮者也。¶
+聞道而樂者，¶
+好德者也。¶
+
