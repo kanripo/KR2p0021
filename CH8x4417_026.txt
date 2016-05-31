@@ -1,20 +1,20 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 26
 
 ** 二十六
 <pb:CH8x4417_CHANT_026-1a>¶
-目而知之謂之進之。¶
+▸目◂[fn::「目」，龐樸作「眸」（《竹帛〈五行〉篇校注及研究》，頁79）。]而知之謂之進之。¶
 喻而知之謂之進之。¶
 譬而知之謂之進之。¶
 幾而知之，¶
 天也。¶
-「上帝臨汝，¶
+「上帝▸臨◂[fn::「臨」，原釋文作「賢」。裘錫圭謂簡文「上帝」下一字當為「臨」字之誤寫（《郭店楚墓竹簡》，頁153）。]汝，¶
 毋貳尔心」，¶
 此之謂也。¶
 
