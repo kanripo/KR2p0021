@@ -1,19 +1,19 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 27
 
 ** 二十七
 <pb:CH8x4417_CHANT_027-1a>¶
-大施諸其人，¶
+▸大◂[fn::「大」，李零作「天」（〈郭店楚簡校讀記〉，頁490）。劉信芳謂「大」又作「天」，二者無別（《簡帛五行解詁》，頁305）。]施諸其人，¶
 天也。¶
 其¶
 人施諸人，¶
-狎也。¶
+▸狎◂[fn::「也」上一字，李零作「狎」，以為「狎」與「習」音近互訓（〈郭店楚簡校讀記〉，頁492）。劉信芳作「據」（《簡帛五行解詁》，168）。]也。¶
 聞道而悅者，¶
 好仁者也。¶
 
