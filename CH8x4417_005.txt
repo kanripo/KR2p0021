@@ -1,19 +1,19 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 5
 
 ** 五
 <pb:CH8x4417_CHANT_005-1a>¶
-仁之思也清，¶
-清¶
+仁之思也▸清◂[fn::「清」，李零作「精」（〈郭店楚簡校讀記〉，頁488）。]，¶
+▸清◂[fn::「清」，李零作「精」（〈郭店楚簡校讀記〉，頁488）。]¶
 則察，¶
 察則安，¶
-安則溫，¶
+安則▸溫◂[fn::「溫」，劉信芳作「𥁕」，以為「𥁕」乃仁之外顯（《簡帛五行解詁》，頁35）。]，¶
 溫則悅，¶
 悅則戚，¶
 戚則親，¶
