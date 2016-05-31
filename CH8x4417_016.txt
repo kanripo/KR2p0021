@@ -1,10 +1,10 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
+#+DATE: 2016-05-31 17:12:50
 #+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
+#+PROPERTY: WITNESS other
 #+PROPERTY: JUAN 16
 
 ** 十六
@@ -15,7 +15,7 @@
 聖也。¶
 明明，¶
 智也。¶
-虩虩，¶
+▸虩虩◂[fn::「虩虩」，李零作「赫赫」（〈郭店楚簡校讀記〉，頁489）。劉信芳同。「赫赫」，明也，顯也（《簡帛五行解詁》，頁80）。]，¶
 聖也。¶
 「明明在下，¶
 虩虩¶
