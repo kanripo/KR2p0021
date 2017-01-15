@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
 #+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CH_ID KR2p0021
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 7
 
 ** 七
-<pb:CH8x4417_CHANT_007-1a>¶
+<pb:KR2p0021_CHANT_007-1a>¶
 聖之思也輕，¶
 輕則形，¶
 形則不忘，¶

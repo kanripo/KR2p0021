@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
 #+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CH_ID KR2p0021
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 25
 
 ** 二十五
-<pb:CH8x4417_CHANT_025-1a>¶
+<pb:KR2p0021_CHANT_025-1a>¶
 耳目鼻口手足六者，¶
 心之役也。¶
 心曰唯，¶

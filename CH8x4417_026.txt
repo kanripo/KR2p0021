@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
 #+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID CH8x4417
+#+PROPERTY: CH_ID KR2p0021
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 26
 
 ** 二十六
-<pb:CH8x4417_CHANT_026-1a>¶
+<pb:KR2p0021_CHANT_026-1a>¶
 目而知之謂之進之。¶
 喻而知之謂之進之。¶
 譬而知之謂之進之。¶
