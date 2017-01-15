@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 8
 
 ** 八
-<pb:KR2p0021_CHANT_008-1a>¶
+<pb:KR2p0021_GD-ch_008-1a>¶
 「淑人君子，¶
 其儀一也」。¶
 能為一，¶

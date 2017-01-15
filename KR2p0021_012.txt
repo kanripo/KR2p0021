@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 12
 
 ** 十二
-<pb:KR2p0021_CHANT_012-1a>¶
+<pb:KR2p0021_GD-ch_012-1a>¶
 不變不悅，¶
 不悅不戚，¶
 不戚不親，¶

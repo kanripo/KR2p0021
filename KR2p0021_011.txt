@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 11
 
 ** 十一
-<pb:KR2p0021_CHANT_011-1a>¶
+<pb:KR2p0021_GD-ch_011-1a>¶
 金聲，¶
 善也；¶
 玉音，¶

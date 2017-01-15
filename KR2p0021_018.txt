@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 18
 
 ** 十八
-<pb:KR2p0021_CHANT_018-1a>¶
+<pb:KR2p0021_GD-ch_018-1a>¶
 見而知之，¶
 智也。¶
 知而安之，¶

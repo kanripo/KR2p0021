@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 16
 
 ** 十六
-<pb:KR2p0021_CHANT_016-1a>¶
+<pb:KR2p0021_GD-ch_016-1a>¶
 見而知之，¶
 智也。¶
 聞而知之，¶

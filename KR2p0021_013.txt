@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 13
 
 ** 十三
-<pb:KR2p0021_CHANT_013-1a>¶
+<pb:KR2p0021_GD-ch_013-1a>¶
 不直不肆，¶
 不肆不果，¶
 不果不簡，¶

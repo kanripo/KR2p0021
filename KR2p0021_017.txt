@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 17
 
 ** 十七
-<pb:KR2p0021_CHANT_017-1a>¶
+<pb:KR2p0021_GD-ch_017-1a>¶
 聞君子道，¶
 聰也。¶
 聞而知之，¶

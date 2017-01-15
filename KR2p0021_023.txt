@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 23
 
 ** 二十三
-<pb:KR2p0021_CHANT_023-1a>¶
+<pb:KR2p0021_GD-ch_023-1a>¶
 簡之為言猶間¶
 也，¶
 大而晏者也。¶

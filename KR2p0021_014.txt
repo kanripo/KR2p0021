@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 14
 
 ** 十四
-<pb:KR2p0021_CHANT_014-1a>¶
+<pb:KR2p0021_GD-ch_014-1a>¶
 不遠不敬，¶
 不敬不嚴，¶
 不嚴不尊，¶

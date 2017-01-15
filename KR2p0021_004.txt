@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 4
 
 ** 四
-<pb:KR2p0021_CHANT_004-1a>¶
+<pb:KR2p0021_GD-ch_004-1a>¶
 不仁，¶
 思不能清。¶
 不智，¶

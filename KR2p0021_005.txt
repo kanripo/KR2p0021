@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 5
 
 ** 五
-<pb:KR2p0021_CHANT_005-1a>¶
+<pb:KR2p0021_GD-ch_005-1a>¶
 仁之思也清，¶
 清¶
 則察，¶

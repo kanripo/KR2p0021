@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 20
 
 ** 二十
-<pb:KR2p0021_CHANT_020-1a>¶
+<pb:KR2p0021_GD-ch_020-1a>¶
 中心¶
 辯然而正行之，¶
 直也。¶
