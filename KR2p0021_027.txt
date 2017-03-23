@@ -1,19 +1,54 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 26
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 27
 
+# src: WXP 27:01
+# dating: 8110
 ** 二十七
-<pb:KR2p0021_GD-ch_027-1a>¶
+¶
 大施諸其人，¶
 天也。¶
-其¶
-人施諸人，¶
-狎也。¶
+其¶人施諸人，¶
+狎也。
+
+# src: WXP 28:01
+# dating: 8110
 聞道而悅者，¶
 好仁者也。¶
+
+
+〓#
+
+
+
+
+「
+
+
+
+
+# src: WXP 27:02 Shuo
+# dating: 8110
+【
+
+
+
+「
+
+
+# src: WXP 27:03 Shuo
+# dating: 8110
+「
+
+
+
+
 

@@ -1,29 +1,43 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 22
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 23
 
 ** 二十三
-<pb:KR2p0021_GD-ch_023-1a>¶
-簡之為言猶間¶
-也，¶
+¶
+簡
+之為言
+猶間也，¶
 大而晏者也。¶
-匿之為言也猶匿匿也，¶
+
+# src: WXP 20:07 Shuo
+# dating: 8110
+匿之為言也
+猶匿匿也，¶
 小而軫者也。¶
 簡，¶
+
+# src: WXP 20:08 Shuo
+# dating: 8110
 義之方也。¶
 匿，¶
 仁之方也。¶
 強，¶
 義之方也。¶
 柔，¶
-仁之方也。¶
+仁之方也。
+
+# src: WXP 20:09 Shuo
+# dating: 8110
 「不強不梂，¶
 不剛不柔」，¶
-此之謂¶
-也。¶
+此之謂也。¶
+
 

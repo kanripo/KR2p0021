@@ -1,32 +1,47 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 23
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 24
 
+# src: WXP 21:01
+# dating: 8110
 ** 二十四
-<pb:KR2p0021_GD-ch_024-1a>¶
+¶
 君子集大成。¶
-能進之為君子，¶
+能進之
+為君子，¶
 弗能進也，¶
 各止於其里。¶
-大而¶
-晏者，¶
+大而晏者，¶
 能有取焉。¶
 小而軫者，¶
 能有取焉。¶
+
+# src: WXP 21:02
+# dating: 8110
 胥儢儢達諸君子道，¶
 謂之賢。¶
-君¶
-子知而舉之，¶
+君¶子知而舉之，¶
 謂之尊賢；¶
 知而事之，¶
-謂之尊賢者也。¶
-前，¶
-王公之尊賢者也；¶
-後，¶
-士之尊賢者也。¶
+謂之尊賢者也。
+前，¶王公之尊賢者也；¶
+後，¶士之尊賢者也。¶
+
+〓#
+
+
+（ ）
+
+
+
+
+
 

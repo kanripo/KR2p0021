@@ -1,25 +1,109 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 20
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 21
 
+# src: WXP 15:02
+# dating: 8110
 ** 二十一
-<pb:KR2p0021_GD-ch_021-1a>¶
+¶
 以其外心與人交，¶
 遠也。¶
 遠而莊之，¶
 敬也。¶
 敬而不節，¶
 嚴也。¶
-嚴而畏¶
-之，¶
+嚴而畏之，¶
 尊也。¶
 尊而不驕，¶
 恭也。¶
 恭而博交，¶
 禮也。¶
+
+
+〓#
+# src: WXP 16:02 Shuo
+# dating: 8110
+【
+
+
+
+
+
+
+
+
+
+# src: WXP 15:03
+# dating: 8110
+「
+（
+（
+
+
+□
+
+# src: WXP 15.04
+# dating: 8110
+「 （
+
+
+
+
+
+
+
+# src: WXP 15:05
+# dating: 8110
+「
+
+
+
+
+
+
+
+
+
+# src: WXP 15:06
+# dating: 8110
+「
+
+
+
+
+
+
+
+# src: WXP 15.07
+# dating: 8110
+「
+
+
+
+
+
+
+
+
+
+# src: WXP 15:08
+# dating: 8110
+
+
+
+
+
+
+
+
+
+
 

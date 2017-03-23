@@ -1,23 +1,38 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 0
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID KR2p0021
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 1
 
 ** 一
-<pb:KR2p0021_GD-ch_001-1a>¶
-五行：¶
-仁形於內謂之德之行，¶
-不形於內謂之行。¶
-義形於內謂之德之行，¶
-不形於內謂之行。¶
-禮形於內謂之德之行，¶
-不形於內謂之行。¶
-智形於內謂之德之行，¶
-不形於內謂之行。¶
-聖形於內謂之德之行，¶
-不形於內謂之行。¶
+
+¶五行：
+仁形於內
+謂之德之行，¶
+不形於內
+謂之行。¶
+義形於內
+謂之德之行，¶
+不形於內
+謂之行。¶
+
+# src: WXP 1:2 ed. Pang Pu p. 44
+# dating: 8110
+禮形於內
+謂之德之行，¶
+不形於內
+謂之行。¶
+智形於內
+謂之德之行，¶
+不形於內謂之行。
+聖形於內
+謂之德之行，¶
+不形於內
+謂之行。¶
 

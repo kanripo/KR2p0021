@@ -1,14 +1,18 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 14
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 15
 
 ** 十五
 <pb:KR2p0021_GD-ch_015-1a>¶
+¶
 未嘗¶
 聞君子道，¶
 謂之不聰。¶
@@ -19,4 +23,5 @@
 謂之不聖。¶
 見賢人而不知其有德也，¶
 謂之不智。¶
+
 

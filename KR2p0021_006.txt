@@ -1,14 +1,19 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 5
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 6
 
+# src: WXP 6:2
+# dating: 8110
 ** 六
-<pb:KR2p0021_GD-ch_006-1a>¶
+¶
 智之思也長，¶
 長則得，¶
 得則不忘，¶
@@ -16,6 +21,5 @@
 明則見賢人，¶
 見賢人則玉色，¶
 玉色則形，¶
-形¶
-則智。¶
+形¶則智。¶
 

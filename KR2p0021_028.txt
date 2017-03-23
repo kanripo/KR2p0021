@@ -1,19 +1,70 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 27
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 28
 
+# src: WXP 28:02 Shuo
+# dating: 8110
 ** 二十八
-<pb:KR2p0021_GD-ch_028-1a>¶
+¶
 聞道而畏者，¶
-好¶
-義者也。¶
+好¶義者也。¶
 聞道而恭者，¶
 好禮者也。¶
 聞道而樂者，¶
-好德者也。¶
+好德者也。
+
+〓#
+
+【
+
+
+
+
+
+
+
+
+
+# src: WXP 28:03 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+
+# src: WXP 28:04 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+
+# src: WXP 28:05
+# dating: 8110
+「
+
+
+
+
+德者也。
+
+
+
+
+
+
 

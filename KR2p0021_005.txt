@@ -1,17 +1,21 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 4
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 5
 
+# src: WXP 6:1
+# dating: 8110
 ** 五
-<pb:KR2p0021_GD-ch_005-1a>¶
-仁之思也清，¶
-清¶
-則察，¶
+
+仁之思也清，
+清¶則察，¶
 察則安，¶
 安則溫，¶
 溫則悅，¶
@@ -21,4 +25,5 @@
 愛則玉色，¶
 玉色則形，¶
 形則仁。¶
+
 

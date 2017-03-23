@@ -1,24 +1,29 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 15
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 16
 
 ** 十六
-<pb:KR2p0021_GD-ch_016-1a>¶
+
 見而知之，¶
 智也。¶
 聞而知之，¶
 聖也。¶
 明明，¶
-智也。¶
+智也。
 虩虩，¶
 聖也。¶
+
+# src: WXP 13:3
+# dating: 8110
 「明明在下，¶
-虩虩¶
-在上」，¶
+虩虩¶在上」，¶
 此之謂也。¶
 

@@ -1,20 +1,279 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 25
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 26
 
 ** 二十六
-<pb:KR2p0021_GD-ch_026-1a>¶
-目而知之謂之進之。¶
-喻而知之謂之進之。¶
-譬而知之謂之進之。¶
+
+目而知
+之謂之進之。
+喻而知之
+謂之進之。¶
+
+# src: WXP 25:02 Shuo
+# dating: 8110
+譬而知之
+謂之進之。¶
+
+# src: WXP 26:01
+# dating: 8110
 幾而知之，¶
 天也。¶
 「上帝臨汝，¶
 毋貳尔心」，¶
 此之謂也。¶
 
+〓#
+# src: WXP 22:03
+# dating: 8110
+¶
+
+# i#者，¶
+# i#心之役也」。¶
+# i#耳
+「
+
+
+
+
+
+
+# src: WXP 22:04
+# dating: 8110
+
+
+
+
+
+
+
+
+
+
+
+# src: WXP 22:05
+# dating: 8110
+
+
+
+
+
+
+
+# src: WXP 22:06
+# dating: 8110
+
+
+
+
+
+
+# src: WXP 22:07
+# dating: 8110
+
+
+〔
+
+
+
+
+
+# src: WXP 22:08
+# dating: 8110
+「
+
+
+
+
+「
+「
+「
+「
+
+# src: WXP 22:09
+# dating: 8110
+「
+
+
+
+
+
+
+
+# src: WXP 22:10
+# dating: 8110
+
+
+
+
+
+
+
+
+
+# src: WXP 21:11 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+
+
+
+
+
+□
+
+「
+
+# src: WXP 23:01
+# dating: 8110
+【
+
+
+# src: WXP 23:02 Shuo
+# dating: 8110
+【
+
+
+
+
+
+
+「
+
+
+
+
+# src: WXP 23:03
+# dating: 8110
+
+
+
+
+
+
+
+# src: WXP 23:04
+# dating: 8110
+
+
+
+
+
+
+
+
+
+# src: WXP 23.:05
+# dating: 8110
+「
+
+
+
+
+
+
+
+
+
+
+
+# src: WXP 23:06
+# dating: 8110
+
+
+
+
+
+
+
+
+
+
+# src: WXP 24:01
+# dating: 8110
+【
+
+
+# src: WXP 24:02 Shuo
+# dating: 8110
+【
+
+
+
+
+
+
+
+
+# src: WXP 24:04 Shuo
+# dating: 8110
+
+
+
+
+
+
+
+
+
+
+
+# src: WXP 25:01
+# dating: 8110
+
+# i#弗喻也，¶
+# i#喻則知之矣，¶
+# i#知之則進耳。¶
+# i#喻之也者，¶
+# i#自所小好喻乎所大好。¶
+# i#<pb:KR2p0021_TLS.uuid-38a458ae-c85a-48d1-be44-2d69d1468284_206492a>¶
+¶
+# i## src: WXP 25:03 Shuo
+# i## dating: 8110
+# i#「窈窕淑女，¶
+# i#寤寐求之」，¶
+# i#思色也。¶
+# i#「求之弗得，¶
+# i#寤寐思服」，¶
+# i#言其急也。¶
+# i#「悠哉悠哉，¶
+# i#輾轉反側」，¶
+# i#言其甚〔急也〕。¶
+# i#<pb:KR2p0021_TLS.uuid-b265fcdf-48bb-4787-a841-6a80e4aa9e0e_206493a>¶
+¶
+# i## src: WXP 25:04
+# i## dating: 8110
+# i#如此其甚也，¶
+# i#交諸父母之側，¶
+# i#為諸？¶
+# i#則有死弗為之矣。¶
+# i#<pb:KR2p0021_TLS.uuid-6f76acde-39a0-4355-a3a0-9103eb05e860_206494a>¶
+¶
+# i## src: WXP 25:05
+# i## dating: 8110
+# i#交諸兄弟之側，¶
+# i#亦弗為也。¶
+# i#交諸邦人之側，¶
+# i#亦弗為也。¶
+# i#畏父兄，¶
+# i#其殺畏人，¶
+# i#禮也。¶
+# i#由色喻於禮，¶
+# i#進耳。)¶
+# i#<pb:KR2p0021_TLS.uuid-ad3c79eb-c726-42db-a8c9-6ae55061a01f_206495a>¶
+¶
+# src: WXP 26:02 Shuo
+# dating: 8110
+【

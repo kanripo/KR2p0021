@@ -1,21 +1,109 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 9
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 10
 
+# src: WXP 7:3 Shuo
+# dating: 8110
 ** 十
-<pb:KR2p0021_GD-ch_010-1a>¶
+¶
 君子之為善也，¶
 有與始，¶
 有與終也。¶
 君子之為德也，¶
 有與始，¶
 無與終也。¶
-金聲，¶
-而玉振之，¶
+
+# src: WXP 8:2 Shuo
+# dating: 8110
+金聲，而玉振之，¶
 有德者也。¶
+
+
+
+〓#
+
+「
+
+
+
+「〔
+
+〔
+〔
+
+
+# src: WXP 7:4 Shuo
+# dating: 8110
+「
+
+
+
+
+「
+
+
+
+# src: WXP 7:5 SHUO
+# dating: 8110
+
+
+
+
+
+
+
+
+
+# src: WXP 7:6 Shuo
+# dating: 8110
+「
+（
+
+
+
+
+
+# src: WXP 7:7 Shuo
+# dating: 8110
+「『
+
+
+
+
+
+（
+
+
+
+
+# src: WXP 7:8 Shuo
+# dating: 8110
+
+
+
+
+「
+
+
+
+# i#【 (P.54說】8「君子之為善也,¶
+# i#有與始¶
+# i#有與終」。¶
+# i#言與(以）其體始¶
+# i#與(以）其體
+終也。¶
+「君子之為德也，¶
+有與始，無與終
+也。¶
+
+
+
 

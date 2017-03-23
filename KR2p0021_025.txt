@@ -1,28 +1,124 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 24
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 25
 
+# src: WXP 22:01
+# dating: 8110
 ** 二十五
-<pb:KR2p0021_GD-ch_025-1a>¶
+¶
 耳目鼻口手足六者，¶
 心之役也。¶
 心曰唯，¶
 莫敢不唯；¶
-諾，¶
+諾，
 莫敢不諾；¶
-進，¶
+進，
 莫敢不進；¶
-後，¶
+
+# src: WXP 22:02
+# dating: 8110
+後，
 莫敢不後；¶
-深，¶
+深，
 莫敢不深；¶
-淺，¶
+淺，
 莫敢不淺。¶
 和則同，¶
 同則善。¶
+
+〓#
+
+
+
+
+
+
+
+
+
+# src: WXP 21:04 Shuo
+# dating: 8110
+
+
+
+
+
+「
+
+
+
+
+
+
+
+
+
+
+
+
+
+# src: WXP 21:06 Shuo
+# dating: 8110
+
+
+
+
+
+
+
+
+
+
+
+# src: WXP 21.07 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+# src: WXP 21:08 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+# src: WXP 21:09 Shuo
+# dating: 8110
+「
+
+
+
+
+
+
+# src: WXP 21:10 Shuo
+# dating: 8110
+「
+
+
+
+〔
+
+
+
+
+
+# src: WXP 21:12 Shuo
+# dating: 8110
+「
+
 

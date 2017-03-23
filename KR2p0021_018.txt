@@ -1,14 +1,18 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 17
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4417
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 18
 
 ** 十八
 <pb:KR2p0021_GD-ch_018-1a>¶
+¶
 見而知之，¶
 智也。¶
 知而安之，¶
@@ -24,4 +28,5 @@
 和¶
 則同，¶
 同則善。¶
+
 

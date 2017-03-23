@@ -1,27 +1,36 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五行
-#+DATE: 2016-05-31 17:12:49
-#+PROPERTY: CH_ID KR2p0021
+#+DATE: 2016-08-10 10:24:27
+#+PROPERTY: ID KR2p0021
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 1
+#+PROPERTY: JUAN 28
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID KR2p0021
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 2
 
+# src: WXP 1:3
+# dating: 8110
 ** 二
-<pb:KR2p0021_GD-ch_002-1a>¶
+¶
 德之行五，¶
 和謂之德，¶
 四行和，¶
 謂之善。¶
-善，¶
-人¶
-道也。¶
-德，¶
-天道也。¶
-君子亡中心之憂則亡中心之智，¶
-亡中心之智則亡中心¶
-之悅，¶
-亡中心之悅則不安，¶
-不安則不樂，¶
-不樂則亡德。¶
+善，人道也。¶
+德，天道也。¶
+
+# src: WXP 2:1
+# dating: 8110
+君子亡中心之憂
+則亡中心之智，¶
+亡中心之智
+則亡中心之悅，¶
+亡中心之悅
+則不安，¶
+不安
+則不樂，¶
+不樂
+則亡德。¶
 
